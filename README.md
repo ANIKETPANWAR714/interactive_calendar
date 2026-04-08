@@ -230,7 +230,7 @@ const HOLIDAYS = {
 
 ## 🔗 Live Demo
 
-- GitHub Pages: [https://yourusername.github.io/interactive-calendar](https://yourusername.github.io/interactive-calendar)
+- GitHub Pages: https://aniketpanwar714.github.io/interactive_calendar/
 
 ## 📄 License
 
