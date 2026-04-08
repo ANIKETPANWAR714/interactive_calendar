@@ -68,8 +68,8 @@ A beautifully designed, fully responsive interactive wall calendar component bui
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/interactive-calendar.git
-cd interactive-calendar
+git https://github.com/ANIKETPANWAR714/interactive_calendar.git
+cd interactive_calendar
 
 # Install dependencies
 npm install
@@ -202,24 +202,6 @@ const HOLIDAYS = {
 - **Documentation**: JSDoc comments on utility functions
 - **Type Safety**: Descriptive naming and logical organization
 
-## 🚀 Deployment
-
-### Vercel (Recommended - Free)
-```bash
-npm install -g vercel
-vercel
-```
-
-### Netlify (Free)
-1. Push to GitHub
-2. Connect repo at [netlify.com](https://netlify.com)
-3. Build command: `npm run build`
-4. Publish directory: `dist/`
-
-### GitHub Pages
-```bash
-npm run build
-```
 
 ## 🐛 Troubleshooting
 
